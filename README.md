@@ -1,4 +1,4 @@
 # blogComments
 
-- Hosts discussions related to arjoonn.com/blog.html
+- Hosts discussions related to https://www.arjoonn.com/blog.html
 - https://github.com/theSage21/blogComments/discussions
